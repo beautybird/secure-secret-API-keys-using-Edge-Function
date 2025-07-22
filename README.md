@@ -1,6 +1,9 @@
 # secure-secret-API-keys-using-Edge-Function
 Secure your secret API keys (i,e, Google API keys and more) using edge function
 
+<img width="920" height="519" alt="secure_API_Logo" src="https://github.com/user-attachments/assets/0b9f98f9-bb30-4ef9-acaf-87a7d6acd409" />
+
+
 The goal is to not expose our Google API keys and our Supabase 
 
 secret keys and any othe API's keys by not hard-coding them in the client side as it's the worst thing to do , instead 
